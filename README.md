@@ -1,5 +1,6 @@
-# Expense-Tracker![Uploading Screenshot 2025-06-23 202222.png…]()
+# Expense-Tracker![Screenshot 2025-06-23 202222](https://github.com/user-attachments/assets/ad7fc140-013b-4002-b26a-6a9ca68a7d6f)
 ![Screenshot 2025-06-23 205110](https://github.com/user-attachments/assets/f9948e36-4f10-4b14-acf2-98f3e11c2939)
 ![Screenshot 2025-06-23 205127](https://github.com/user-attachments/assets/8c794fbe-5922-441b-9e1a-798a1aa84f10)
 ![Screenshot 2025-06-23 205144](https://github.com/user-attachments/assets/55235146-0bd5-4a9e-b7c0-2fe74da65c91)
 ![Screenshot 2025-06-23 205159](https://github.com/user-attachments/assets/d687f70b-b0c0-4f9a-a0ce-a55eaf6e1605)
+![Uploading Screenshot 2025-06-23 202222.png…]()
